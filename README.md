@@ -1,4 +1,4 @@
-# Opetarion-Research
+# Operation-Research
 Analitik Hiyerarşi Süreci(AHS)
 
 AHP, 1977 yılında Thomas L. Saaty tarafından kriterler arasındaki sübjektif uzaklığın ölçülmesi amacıyla geliştirilmiştir. 
